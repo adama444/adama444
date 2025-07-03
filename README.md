@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adama444
-- 👀 I’m interested in data science and computer vision
+- 👀 I’m Data Engineer
 - 📫 How to reach me You can send me an email to adama.samake.work@gmail.com
 
 <!---
